@@ -1,17 +1,9 @@
 <script setup lang="ts">
+import Home from './views/Home.vue'
 </script>
 
 <template>
-  <header>
-
-    <div class="wrapper">
-
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <Home></Home>
 </template>
 
 <style scoped>
